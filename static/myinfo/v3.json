@@ -1,3 +1,4 @@
+
 {
   "attributes": {
     "basic": [
@@ -42,7 +43,7 @@
     ],
     "income": [
       "ownerprivate",
-      "assessableincome",
+      "noa-basic",
       "assessyear",
       "cpfcontributions",
       "cpfbalances"
@@ -217,7 +218,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -225,7 +226,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -353,11 +354,11 @@
         "classification": "C",
         "low": "2000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "923456789.00"
+        "amount": "923456789.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -639,7 +640,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -647,7 +648,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -725,11 +726,11 @@
         "classification": "C",
         "low": "1000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "NA"
+        "amount": "NA"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -961,6 +962,7 @@
           "value": "PARC OASIS"
         }
       },
+      
       "mailadd": {
         "country": "",
         "unit": "",
@@ -1011,7 +1013,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -1019,7 +1021,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -1130,11 +1132,11 @@
         "classification": "C",
         "low": "3000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "2456789"
+        "amount": "2456789"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -1248,7 +1250,7 @@
         "value": ""
       }
     },
-    "S9912366D": {
+    "S9912366D":{
       "name": {
         "lastupdated": "2018-03-20",
         "source": "1",
@@ -1416,7 +1418,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -1424,7 +1426,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -1502,11 +1504,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "0.00"
+        "amount": "0.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -1627,6 +1629,7 @@
         "value": "2025-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "",
@@ -1688,7 +1691,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -1696,7 +1699,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -1784,11 +1787,11 @@
         "classification": "C",
         "low": "7000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "323456789"
+        "amount": "323456789"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -1909,6 +1912,7 @@
         "value": "2025-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "",
@@ -1970,7 +1974,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -1978,7 +1982,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -2135,11 +2139,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "0.00"
+        "amount": "0.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -2259,6 +2263,7 @@
         "classification": "C",
         "value": ""
       },
+      
       "regadd": {
         "type": "SG",
         "country": {
@@ -2336,7 +2341,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -2344,7 +2349,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -2432,11 +2437,11 @@
         "classification": "C",
         "low": "1000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "NA"
+        "amount": "NA"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -2558,6 +2563,7 @@
         "value": ""
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "128",
         "street": "BEDOK NORTH AVENUE 4",
@@ -2619,7 +2625,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -2627,7 +2633,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -2733,11 +2739,11 @@
         "classification": "C",
         "low": "4000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "1456789.00"
+        "amount": "1456789.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -3018,7 +3024,7 @@
         "classification": "C",
         "value": ""
       }
-    },
+    },  
     "S9812382B": {
       "name": {
         "lastupdated": "2018-03-20",
@@ -3185,7 +3191,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -3193,7 +3199,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -3299,11 +3305,11 @@
         "classification": "C",
         "low": "3000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "2456789.00"
+        "amount": "2456789.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -3567,7 +3573,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -3575,7 +3581,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -3663,11 +3669,11 @@
         "classification": "C",
         "low": "7000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "3456789.00"
+        "amount": "3456789.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -3871,7 +3877,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -3879,7 +3885,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -3967,11 +3973,11 @@
         "classification": "C",
         "low": "3000"
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": ""
+        "amount": ""
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -4092,6 +4098,7 @@
         "value": "2025-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "22",
         "street": "LORONG 1 TOA PAYOH",
@@ -4153,7 +4160,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -4161,7 +4168,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -4249,11 +4256,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "84567.00"
+        "amount": "84567.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -4459,6 +4466,7 @@
         "value": "2025-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "22",
         "street": "LORONG 1 TOA PAYOH",
@@ -4520,7 +4528,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -4528,7 +4536,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -4651,11 +4659,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "75000.00"
+        "amount": "75000.00"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -4861,6 +4869,7 @@
         "value": "2025-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "112",
         "street": "BUKIT BATOK STREET 25",
@@ -4922,7 +4931,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -4930,7 +4939,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -5018,11 +5027,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "NA"
+        "amount": "NA"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -5144,6 +5153,7 @@
         "value": "1999-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "KG SG RAMAL LUAR",
@@ -5205,7 +5215,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -5213,7 +5223,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -5301,11 +5311,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "NA"
+        "amount": "NA"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -5427,6 +5437,7 @@
         "value": "2023-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "",
@@ -5488,7 +5499,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -5496,7 +5507,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -5584,11 +5595,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "123437.12"
+        "amount": "123437.12"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -5709,6 +5720,7 @@
         "value": "2024-01-01"
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "",
@@ -5770,7 +5782,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -5778,7 +5790,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -5901,11 +5913,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": ""
+        "amount": ""
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
@@ -5933,7 +5945,7 @@
         "classification": "C",
         "value": ""
       }
-    },
+    },  
     "G1612350T": {
       "name": {
         "lastupdated": "2018-03-20",
@@ -6026,6 +6038,7 @@
         "value": ""
       },
       "regadd": {
+        "type": "SG",
         "country": "",
         "unit": "",
         "street": "",
@@ -6087,7 +6100,7 @@
       },
       "homeno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "2",
         "classification": "C",
         "prefix": "+",
@@ -6095,7 +6108,7 @@
       },
       "mobileno": {
         "lastupdated": "2018-08-23",
-        "code": "65",
+        "areacode": "65",
         "source": "4",
         "classification": "C",
         "prefix": "+",
@@ -6235,11 +6248,11 @@
         "classification": "C",
         "low": ""
       },
-      "assessableincome": {
+      "noa-basic": {
         "lastupdated": "2017-03-16",
         "source": "1",
         "classification": "C",
-        "value": "170402.02"
+        "amount": "170402.02"
       },
       "assessyear": {
         "lastupdated": "2017-03-16",
