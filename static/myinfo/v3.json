@@ -566,7 +566,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": ""
@@ -938,7 +938,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "367"
@@ -1344,7 +1344,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "12"
@@ -2267,7 +2267,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "22"
@@ -3119,7 +3119,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "367"
@@ -3499,7 +3499,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "10"
@@ -3803,7 +3803,7 @@
       "regadd": {
         "type": "SG",
         "country": {
-          "value": "SG"
+          "code": "SG"
         },
         "unit": {
           "value": "58"
