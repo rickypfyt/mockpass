@@ -1,4 +1,3 @@
-
 {
   "attributes": {
     "basic": [
@@ -50,6 +49,2116 @@
     ]
   },
   "personas": {
+    "S1912369I": {
+      "name": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "PATRICIA KIM WAI MUN"
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriedname": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "MRS PATRICIA KIM WAI MUN"
+      },
+      "sex": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": ""
+      },
+      "race": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "MX"
+      },
+      "secondaryrace": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "EU"
+      },
+      "dialect": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "nationality": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "SG"
+      },
+      "dob": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "1999-10-06"
+      },
+      "birthcountry": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "residentialstatus": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "C"
+      },
+      "passportnumber": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": "E1234577F"
+      },
+      "passportexpirydate": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "2020-01-01"
+      },
+      "regadd": {
+        "type": "SG",
+        "country": {
+          "value": "SG"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "BEDOK RESERVOIR ROAD"
+        },
+        "lastupdated": "2018-03-20",
+        "block": {
+          "value": "113"
+        },
+        "source": "1",
+        "postal": {
+          "value": "470113"
+        },
+        "classification": "C",
+        "floor": {
+          "value": "03"
+        },
+        "building": {
+          "value": "EUNOS VISTA"
+        }
+      },
+      "mailadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "billadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "housingtype": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hdbtype": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "114"
+      },
+      "ownerprivate": {
+        "lastupdated": "2017-04-26",
+        "source": "1",
+        "classification": "C",
+        "value": "N"
+      },
+      "email": {
+        "lastupdated": "2018-08-23",
+        "source": "4",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "homeno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "2",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "69876543"
+      },
+      "mobileno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "4",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "97399245"
+      },
+      "marital": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": "2"
+      },
+      "marriagecertno": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "901889"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "marriagedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "2012-02-15"
+      },
+      "divorcedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "childrenbirthrecords": [
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S5562882C",
+          "hanyupinyinname": "Cheng Pei Ni",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2011-09-10",
+          "name": "Jo Tan Pei Ni",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "2021",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S8816582I",
+          "hanyupinyinname": "Cheng Wei Ling",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2015-07-18",
+          "name": "Joyce Tan Wei Ling",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "T0202564C",
+          "hanyupinyinname": "Cheng Shu Hui",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2012-09-10",
+          "name": "Joycelyn Tan Shu Hui",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        }
+      ],
+      "edulevel": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "9"
+      },
+      "gradyear": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "2001"
+      },
+      "schoolname": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "NTU",
+        "desc": "NANYANG TECHNOLOGICAL UNIVERSITY"
+      },
+      "occupation": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "13304",
+        "desc": ""
+      },
+      "employment": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "AAS Sistemas Pte Ltd"
+      },
+      "householdincome": {
+        "lastupdated": "2017-10-24",
+        "high": "above",
+        "source": "2",
+        "classification": "C",
+        "low": "2000"
+      },
+      "noa-basic": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "amount": "923456789.00"
+      },
+      "assessyear": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "value": "2018"
+      },
+      "cpfcontributions": {
+        "lastupdated": "2017-03-16",
+        "cpfcontribution": [
+          {
+            "date": "2614-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2014-12"
+          },
+          {
+            "date": "2615-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-01"
+          },
+          {
+            "date": "2615-02-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-02"
+          },
+          {
+            "date": "2615-03-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-03"
+          },
+          {
+            "date": "2615-04-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-04"
+          },
+          {
+            "date": "2615-05-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-05"
+          },
+          {
+            "date": "2615-06-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-06"
+          },
+          {
+            "date": "2615-07-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-07"
+          },
+          {
+            "date": "2615-08-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-08"
+          },
+          {
+            "date": "2615-09-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-09"
+          },
+          {
+            "date": "2615-10-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-10"
+          },
+          {
+            "date": "2615-11-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-11"
+          },
+          {
+            "date": "2615-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-12"
+          },
+          {
+            "date": "2616-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2016-01"
+          }
+        ],
+        "source": "1",
+        "classification": "C"
+      },
+      "cpfbalances": {
+        "lastupdated": "2017-03-16",
+        "oa": "1581.48",
+        "source": "1",
+        "ma": "21967.09",
+        "classification": "C",
+        "sa": "11470.70"
+      },
+      "vehno": {
+        "lastupdated": "",
+        "source": "2",
+        "classification": "C",
+        "value": "SKK789T"
+      }
+    },
+    "S2912369I": {
+      "name": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "PATRICIA KIM WAI MUN"
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriedname": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "MRS PATRICIA KIM WAI MUN"
+      },
+      "sex": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "F"
+      },
+      "race": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "MX"
+      },
+      "secondaryrace": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "EU"
+      },
+      "dialect": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "nationality": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "SG"
+      },
+      "dob": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "1999-10-06"
+      },
+      "birthcountry": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "residentialstatus": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "C"
+      },
+      "passportnumber": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": "E1234577F"
+      },
+      "passportexpirydate": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "2020-01-01"
+      },
+      "regadd": {
+        "type": "SG",
+        "country": {
+          "value": "SG"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "BEDOK RESERVOIR ROAD"
+        },
+        "lastupdated": "2018-03-20",
+        "block": {
+          "value": "113"
+        },
+        "source": "1",
+        "postal": {
+          "value": ""
+        },
+        "classification": "C",
+        "floor": {
+          "value": "03"
+        },
+        "building": {
+          "value": "EUNOS VISTA"
+        }
+      },
+      "mailadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "billadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "housingtype": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hdbtype": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "114"
+      },
+      "ownerprivate": {
+        "lastupdated": "2017-04-26",
+        "source": "1",
+        "classification": "C",
+        "value": "N"
+      },
+      "email": {
+        "lastupdated": "2018-08-23",
+        "source": "4",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "homeno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "2",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "69876543"
+      },
+      "mobileno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "4",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "97399245"
+      },
+      "marital": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": "2"
+      },
+      "marriagecertno": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "901889"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "marriagedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "2012-02-15"
+      },
+      "divorcedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "childrenbirthrecords": [
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S5562882C",
+          "hanyupinyinname": "Cheng Pei Ni",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2011-09-10",
+          "name": "Jo Tan Pei Ni",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "2021",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S8816582I",
+          "hanyupinyinname": "Cheng Wei Ling",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2015-07-18",
+          "name": "Joyce Tan Wei Ling",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "T0202564C",
+          "hanyupinyinname": "Cheng Shu Hui",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2012-09-10",
+          "name": "Joycelyn Tan Shu Hui",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        }
+      ],
+      "edulevel": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "9"
+      },
+      "gradyear": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "2001"
+      },
+      "schoolname": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "NTU",
+        "desc": "NANYANG TECHNOLOGICAL UNIVERSITY"
+      },
+      "occupation": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "13304",
+        "desc": ""
+      },
+      "employment": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "AAS Sistemas Pte Ltd"
+      },
+      "householdincome": {
+        "lastupdated": "2017-10-24",
+        "high": "above",
+        "source": "2",
+        "classification": "C",
+        "low": "2000"
+      },
+      "noa-basic": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "amount": "923456789.00"
+      },
+      "assessyear": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "value": "2018"
+      },
+      "cpfcontributions": {
+        "lastupdated": "2017-03-16",
+        "cpfcontribution": [
+          {
+            "date": "2614-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2014-12"
+          },
+          {
+            "date": "2615-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-01"
+          },
+          {
+            "date": "2615-02-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-02"
+          },
+          {
+            "date": "2615-03-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-03"
+          },
+          {
+            "date": "2615-04-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-04"
+          },
+          {
+            "date": "2615-05-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-05"
+          },
+          {
+            "date": "2615-06-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-06"
+          },
+          {
+            "date": "2615-07-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-07"
+          },
+          {
+            "date": "2615-08-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-08"
+          },
+          {
+            "date": "2615-09-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-09"
+          },
+          {
+            "date": "2615-10-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-10"
+          },
+          {
+            "date": "2615-11-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-11"
+          },
+          {
+            "date": "2615-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-12"
+          },
+          {
+            "date": "2616-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2016-01"
+          }
+        ],
+        "source": "1",
+        "classification": "C"
+      },
+      "cpfbalances": {
+        "lastupdated": "2017-03-16",
+        "oa": "1581.48",
+        "source": "1",
+        "ma": "21967.09",
+        "classification": "C",
+        "sa": "11470.70"
+      },
+      "vehno": {
+        "lastupdated": "",
+        "source": "2",
+        "classification": "C",
+        "value": "SKK789T"
+      }
+    },
+    "S3912369I": {
+      "name": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "PATRICIA KIM WAI MUN"
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriedname": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "MRS PATRICIA KIM WAI MUN"
+      },
+      "sex": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "F"
+      },
+      "race": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "MX"
+      },
+      "secondaryrace": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "EU"
+      },
+      "dialect": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "nationality": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "SG"
+      },
+      "dob": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "birthcountry": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "residentialstatus": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "C"
+      },
+      "passportnumber": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": "E1234577F"
+      },
+      "passportexpirydate": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "2020-01-01"
+      },
+      "regadd": {
+        "type": "SG",
+        "country": {
+          "value": "SG"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "BEDOK RESERVOIR ROAD"
+        },
+        "lastupdated": "2018-03-20",
+        "block": {
+          "value": "113"
+        },
+        "source": "1",
+        "postal": {
+          "value": "470113"
+        },
+        "classification": "C",
+        "floor": {
+          "value": "03"
+        },
+        "building": {
+          "value": "EUNOS VISTA"
+        }
+      },
+      "mailadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "billadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "housingtype": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hdbtype": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "114"
+      },
+      "ownerprivate": {
+        "lastupdated": "2017-04-26",
+        "source": "1",
+        "classification": "C",
+        "value": "N"
+      },
+      "email": {
+        "lastupdated": "2018-08-23",
+        "source": "4",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "homeno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "2",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "69876543"
+      },
+      "mobileno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "4",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "97399245"
+      },
+      "marital": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": "2"
+      },
+      "marriagecertno": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "901889"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "marriagedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "2012-02-15"
+      },
+      "divorcedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "childrenbirthrecords": [
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S5562882C",
+          "hanyupinyinname": "Cheng Pei Ni",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2011-09-10",
+          "name": "Jo Tan Pei Ni",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "2021",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S8816582I",
+          "hanyupinyinname": "Cheng Wei Ling",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2015-07-18",
+          "name": "Joyce Tan Wei Ling",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "T0202564C",
+          "hanyupinyinname": "Cheng Shu Hui",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2012-09-10",
+          "name": "Joycelyn Tan Shu Hui",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        }
+      ],
+      "edulevel": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "9"
+      },
+      "gradyear": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "2001"
+      },
+      "schoolname": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "NTU",
+        "desc": "NANYANG TECHNOLOGICAL UNIVERSITY"
+      },
+      "occupation": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "13304",
+        "desc": ""
+      },
+      "employment": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "AAS Sistemas Pte Ltd"
+      },
+      "householdincome": {
+        "lastupdated": "2017-10-24",
+        "high": "above",
+        "source": "2",
+        "classification": "C",
+        "low": "2000"
+      },
+      "noa-basic": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "amount": "923456789.00"
+      },
+      "assessyear": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "value": "2018"
+      },
+      "cpfcontributions": {
+        "lastupdated": "2017-03-16",
+        "cpfcontribution": [
+          {
+            "date": "2614-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2014-12"
+          },
+          {
+            "date": "2615-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-01"
+          },
+          {
+            "date": "2615-02-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-02"
+          },
+          {
+            "date": "2615-03-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-03"
+          },
+          {
+            "date": "2615-04-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-04"
+          },
+          {
+            "date": "2615-05-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-05"
+          },
+          {
+            "date": "2615-06-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-06"
+          },
+          {
+            "date": "2615-07-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-07"
+          },
+          {
+            "date": "2615-08-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-08"
+          },
+          {
+            "date": "2615-09-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-09"
+          },
+          {
+            "date": "2615-10-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-10"
+          },
+          {
+            "date": "2615-11-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-11"
+          },
+          {
+            "date": "2615-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-12"
+          },
+          {
+            "date": "2616-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2016-01"
+          }
+        ],
+        "source": "1",
+        "classification": "C"
+      },
+      "cpfbalances": {
+        "lastupdated": "2017-03-16",
+        "oa": "1581.48",
+        "source": "1",
+        "ma": "21967.09",
+        "classification": "C",
+        "sa": "11470.70"
+      },
+      "vehno": {
+        "lastupdated": "",
+        "source": "2",
+        "classification": "C",
+        "value": "SKK789T"
+      }
+    },
+    "S4912369I": {
+      "name": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "PATRICIA KIM WAI MUN"
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriedname": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "MRS PATRICIA KIM WAI MUN"
+      },
+      "sex": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "F"
+      },
+      "race": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "MX"
+      },
+      "secondaryrace": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "EU"
+      },
+      "dialect": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "nationality": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "SG"
+      },
+      "dob": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "2019-10-06"
+      },
+      "birthcountry": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "residentialstatus": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "C"
+      },
+      "passportnumber": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": "E1234577F"
+      },
+      "passportexpirydate": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "2020-01-01"
+      },
+      "regadd": {
+        "type": "SG",
+        "country": {
+          "value": "SG"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "BEDOK RESERVOIR ROAD"
+        },
+        "lastupdated": "2018-03-20",
+        "block": {
+          "value": "113"
+        },
+        "source": "1",
+        "postal": {
+          "value": "470113"
+        },
+        "classification": "C",
+        "floor": {
+          "value": "03"
+        },
+        "building": {
+          "value": "EUNOS VISTA"
+        }
+      },
+      "mailadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "billadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "housingtype": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hdbtype": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "114"
+      },
+      "ownerprivate": {
+        "lastupdated": "2017-04-26",
+        "source": "1",
+        "classification": "C",
+        "value": "N"
+      },
+      "email": {
+        "lastupdated": "2018-08-23",
+        "source": "4",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "homeno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "2",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "69876543"
+      },
+      "mobileno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "4",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "97399245"
+      },
+      "marital": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": "2"
+      },
+      "marriagecertno": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "901889"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "marriagedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "2012-02-15"
+      },
+      "divorcedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "childrenbirthrecords": [
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S5562882C",
+          "hanyupinyinname": "Cheng Pei Ni",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2011-09-10",
+          "name": "Jo Tan Pei Ni",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "2021",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S8816582I",
+          "hanyupinyinname": "Cheng Wei Ling",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2015-07-18",
+          "name": "Joyce Tan Wei Ling",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "T0202564C",
+          "hanyupinyinname": "Cheng Shu Hui",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2012-09-10",
+          "name": "Joycelyn Tan Shu Hui",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        }
+      ],
+      "edulevel": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "9"
+      },
+      "gradyear": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "2001"
+      },
+      "schoolname": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "NTU",
+        "desc": "NANYANG TECHNOLOGICAL UNIVERSITY"
+      },
+      "occupation": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "13304",
+        "desc": ""
+      },
+      "employment": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "AAS Sistemas Pte Ltd"
+      },
+      "householdincome": {
+        "lastupdated": "2017-10-24",
+        "high": "above",
+        "source": "2",
+        "classification": "C",
+        "low": "2000"
+      },
+      "noa-basic": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "amount": "923456789.00"
+      },
+      "assessyear": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "value": "2018"
+      },
+      "cpfcontributions": {
+        "lastupdated": "2017-03-16",
+        "cpfcontribution": [
+          {
+            "date": "2614-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2014-12"
+          },
+          {
+            "date": "2615-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-01"
+          },
+          {
+            "date": "2615-02-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-02"
+          },
+          {
+            "date": "2615-03-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-03"
+          },
+          {
+            "date": "2615-04-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-04"
+          },
+          {
+            "date": "2615-05-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-05"
+          },
+          {
+            "date": "2615-06-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-06"
+          },
+          {
+            "date": "2615-07-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-07"
+          },
+          {
+            "date": "2615-08-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-08"
+          },
+          {
+            "date": "2615-09-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-09"
+          },
+          {
+            "date": "2615-10-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-10"
+          },
+          {
+            "date": "2615-11-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-11"
+          },
+          {
+            "date": "2615-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-12"
+          },
+          {
+            "date": "2616-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2016-01"
+          }
+        ],
+        "source": "1",
+        "classification": "C"
+      },
+      "cpfbalances": {
+        "lastupdated": "2017-03-16",
+        "oa": "1581.48",
+        "source": "1",
+        "ma": "21967.09",
+        "classification": "C",
+        "sa": "11470.70"
+      },
+      "vehno": {
+        "lastupdated": "",
+        "source": "2",
+        "classification": "C",
+        "value": "SKK789T"
+      }
+    },
+    "S5912369I": {
+      "name": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "PATRICIA KIM WAI MUN"
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriedname": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "MRS PATRICIA KIM WAI MUN"
+      },
+      "sex": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": "F"
+      },
+      "race": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "MX"
+      },
+      "secondaryrace": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "EU"
+      },
+      "dialect": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "nationality": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "code": ""
+      },
+      "dob": {
+        "lastupdated": "2018-03-20",
+        "source": "1",
+        "classification": "C",
+        "value": "1999-10-06"
+      },
+      "birthcountry": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "residentialstatus": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "C"
+      },
+      "passportnumber": {
+        "lastupdated": "2018-08-23",
+        "source": "1",
+        "classification": "C",
+        "value": "E1234577F"
+      },
+      "passportexpirydate": {
+        "lastupdated": "2018-03-23",
+        "source": "1",
+        "classification": "C",
+        "value": "2020-01-01"
+      },
+      "regadd": {
+        "type": "SG",
+        "country": {
+          "value": "SG"
+        },
+        "unit": {
+          "value": "11"
+        },
+        "street": {
+          "value": "BEDOK RESERVOIR ROAD"
+        },
+        "lastupdated": "2018-03-20",
+        "block": {
+          "value": "113"
+        },
+        "source": "1",
+        "postal": {
+          "value": "470113"
+        },
+        "classification": "C",
+        "floor": {
+          "value": "03"
+        },
+        "building": {
+          "value": "EUNOS VISTA"
+        }
+      },
+      "mailadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "billadd": {
+        "country": "",
+        "unit": "",
+        "street": "",
+        "lastupdated": "",
+        "block": "",
+        "source": "",
+        "postal": "",
+        "classification": "",
+        "floor": "",
+        "building": ""
+      },
+      "housingtype": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "hdbtype": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "114"
+      },
+      "ownerprivate": {
+        "lastupdated": "2017-04-26",
+        "source": "1",
+        "classification": "C",
+        "value": "N"
+      },
+      "email": {
+        "lastupdated": "2018-08-23",
+        "source": "4",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "homeno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "2",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "69876543"
+      },
+      "mobileno": {
+        "lastupdated": "2018-08-23",
+        "areacode": "65",
+        "source": "4",
+        "classification": "C",
+        "prefix": "+",
+        "nbr": "97399245"
+      },
+      "marital": {
+        "lastupdated": "2018-03-21",
+        "source": "1",
+        "classification": "C",
+        "value": "2"
+      },
+      "marriagecertno": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "901889"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2018-03-02",
+        "source": "1",
+        "classification": "C",
+        "value": "SG"
+      },
+      "marriagedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": "2012-02-15"
+      },
+      "divorcedate": {
+        "lastupdated": "",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "childrenbirthrecords": [
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S5562882C",
+          "hanyupinyinname": "Cheng Pei Ni",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2011-09-10",
+          "name": "Jo Tan Pei Ni",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "2021",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "S8816582I",
+          "hanyupinyinname": "Cheng Wei Ling",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2015-07-18",
+          "name": "Joyce Tan Wei Ling",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        },
+        {
+          "dialect": "HK",
+          "race": "CN",
+          "tob": "0901",
+          "sex": "F",
+          "source": "1",
+          "classification": "C",
+          "birthcertno": "T0202564C",
+          "hanyupinyinname": "Cheng Shu Hui",
+          "hanyupinyinaliasname": "",
+          "marriedname": "",
+          "aliasname": "",
+          "dob": "2012-09-10",
+          "name": "Joycelyn Tan Shu Hui",
+          "lastupdated": "2018-05-16",
+          "secondaryrace": ""
+        }
+      ],
+      "edulevel": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "9"
+      },
+      "gradyear": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "2001"
+      },
+      "schoolname": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "NTU",
+        "desc": "NANYANG TECHNOLOGICAL UNIVERSITY"
+      },
+      "occupation": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "13304",
+        "desc": ""
+      },
+      "employment": {
+        "lastupdated": "2017-10-11",
+        "source": "2",
+        "classification": "C",
+        "value": "AAS Sistemas Pte Ltd"
+      },
+      "householdincome": {
+        "lastupdated": "2017-10-24",
+        "high": "above",
+        "source": "2",
+        "classification": "C",
+        "low": "2000"
+      },
+      "noa-basic": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "amount": "923456789.00"
+      },
+      "assessyear": {
+        "lastupdated": "2017-03-16",
+        "source": "1",
+        "classification": "C",
+        "value": "2018"
+      },
+      "cpfcontributions": {
+        "lastupdated": "2017-03-16",
+        "cpfcontribution": [
+          {
+            "date": "2614-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2014-12"
+          },
+          {
+            "date": "2615-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-01"
+          },
+          {
+            "date": "2615-02-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-02"
+          },
+          {
+            "date": "2615-03-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-03"
+          },
+          {
+            "date": "2615-04-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-04"
+          },
+          {
+            "date": "2615-05-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-05"
+          },
+          {
+            "date": "2615-06-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-06"
+          },
+          {
+            "date": "2615-07-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-07"
+          },
+          {
+            "date": "2615-08-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-08"
+          },
+          {
+            "date": "2615-09-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-09"
+          },
+          {
+            "date": "2615-10-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-10"
+          },
+          {
+            "date": "2615-11-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-11"
+          },
+          {
+            "date": "2615-12-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2015-12"
+          },
+          {
+            "date": "2616-01-28",
+            "employer": "AAS SISTEMAS PTE LTD",
+            "amount": "5626.67",
+            "month": "2016-01"
+          }
+        ],
+        "source": "1",
+        "classification": "C"
+      },
+      "cpfbalances": {
+        "lastupdated": "2017-03-16",
+        "oa": "1581.48",
+        "source": "1",
+        "ma": "21967.09",
+        "classification": "C",
+        "sa": "11470.70"
+      },
+      "vehno": {
+        "lastupdated": "",
+        "source": "2",
+        "classification": "C",
+        "value": "SKK789T"
+      }
+    },
     "S9912369I": {
       "name": {
         "lastupdated": "2018-03-20",
@@ -685,7 +2794,9 @@
         "value": ""
       },
       "childrenbirthrecords": [
-        {}
+        {
+
+        }
       ],
       "edulevel": {
         "lastupdated": "2017-10-11",
@@ -962,7 +3073,6 @@
           "value": "PARC OASIS"
         }
       },
-      
       "mailadd": {
         "country": "",
         "unit": "",
@@ -1250,7 +3360,7 @@
         "value": ""
       }
     },
-    "S9912366D":{
+    "S9912366D": {
       "name": {
         "lastupdated": "2018-03-20",
         "source": "1",
@@ -1463,7 +3573,9 @@
         "value": "2011-02-28"
       },
       "childrenbirthrecords": [
-        {}
+        {
+
+        }
       ],
       "edulevel": {
         "lastupdated": "2017-10-11",
@@ -1518,7 +3630,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -1735,7 +3849,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -1801,7 +3917,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -2153,7 +4271,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -2263,7 +4383,6 @@
         "classification": "C",
         "value": ""
       },
-      
       "regadd": {
         "type": "SG",
         "country": {
@@ -2385,7 +4504,9 @@
         "classification": "C",
         "value": "2015-01-01"
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -2451,7 +4572,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -3024,7 +5147,7 @@
         "classification": "C",
         "value": ""
       }
-    },  
+    },
     "S9812382B": {
       "name": {
         "lastupdated": "2018-03-20",
@@ -3617,7 +5740,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -3921,7 +6046,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -3987,7 +6114,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -4204,7 +6333,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -4975,7 +7106,9 @@
         "classification": "C",
         "value": "2011-02-15"
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -5041,7 +7174,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -5259,7 +7394,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -5325,7 +7462,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -5543,7 +7682,9 @@
         "classification": "C",
         "value": ""
       },
-      "childrenbirthrecords": [],
+      "childrenbirthrecords": [
+
+      ],
       "edulevel": {
         "lastupdated": "2017-10-11",
         "source": "2",
@@ -5609,7 +7750,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -5927,7 +8070,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
@@ -5945,7 +8090,7 @@
         "classification": "C",
         "value": ""
       }
-    },  
+    },
     "G1612350T": {
       "name": {
         "lastupdated": "2018-03-20",
@@ -6262,7 +8407,9 @@
       },
       "cpfcontributions": {
         "lastupdated": "2017-03-16",
-        "cpfcontribution": [],
+        "cpfcontribution": [
+
+        ],
         "source": "1",
         "classification": "C"
       },
