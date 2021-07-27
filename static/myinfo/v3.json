@@ -29381,6 +29381,790 @@
         "classification": "C",
         "desc": ""
       }
+    },
+    "S9812351D": {
+      "edulevel": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "2",
+        "classification": "C",
+        "desc": ""
+      },
+      "dialect": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "1",
+        "classification": "C",
+        "desc": ""
+      },
+      "occupation": {
+        "lastupdated": "2020-04-16",
+        "code": "53201",
+        "source": "2",
+        "classification": "C",
+        "desc": "HEALTHCARE ASSISTANT"
+      },
+      "mobileno": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "areacode": {
+          "value": "65"
+        },
+        "prefix": {
+          "value": "+"
+        },
+        "nbr": {
+          "value": "97399245"
+        }
+      },
+      "uuid": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "c867ecfd-5a4b-2bd7-4187-cbc4390ca719"
+      },
+      "mailadd": {
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "unit": {
+          "value": ""
+        },
+        "street": {
+          "value": ""
+        },
+        "lastupdated": "2020-04-16",
+        "block": {
+          "value": ""
+        },
+        "source": "2",
+        "postal": {
+          "value": ""
+        },
+        "classification": "C",
+        "floor": {
+          "value": ""
+        },
+        "type": "SG",
+        "building": {
+          "value": ""
+        }
+      },
+      "marriedname": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "sponsoredchildrenrecords": [],
+      "divorcedate": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "marriagecertno": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "noahistory": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "unavailable": true
+      },
+      "ownerprivate": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": false
+      },
+      "cpfemployers": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "history": [
+          {
+            "month": {
+              "value": "2019-05"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-06"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-07"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-08"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-09"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-10"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-11"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2019-12"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2020-01"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2020-02"
+            },
+            "employer": {
+              "value": "DBS"
+            }
+          },
+          {
+            "month": {
+              "value": "2020-03"
+            },
+            "employer": {
+              "value": "UOB"
+            }
+          },
+          {
+            "month": {
+              "value": "2020-04"
+            },
+            "employer": {
+              "value": "A% Testing & Dev's_Ltd"
+            }
+          }
+        ],
+        "classification": "C"
+      },
+      "housingtype": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "1",
+        "classification": "C",
+        "desc": ""
+      },
+      "passexpirydate": {
+        "lastupdated": "2020-04-16",
+        "source": "3",
+        "classification": "C",
+        "value": ""
+      },
+      "homeno": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "areacode": {
+          "value": "65"
+        },
+        "prefix": {
+          "value": "+"
+        },
+        "nbr": {
+          "value": "69876543"
+        }
+      },
+      "residentialstatus": {
+        "lastupdated": "2020-04-16",
+        "code": "P",
+        "source": "1",
+        "classification": "C",
+        "desc": "PR"
+      },
+      "cpfbalances": {
+        "lastupdated": "2020-04-16",
+        "oa": {
+          "value": 89365.6
+        },
+        "source": "1",
+        "classification": "C",
+        "ma": {
+          "value": 74584.94
+        },
+        "sa": {
+          "value": 66485.84
+        }
+      },
+      "passportnumber": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "value": ""
+      },
+      "schoolname": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "2",
+        "classification": "C",
+        "desc": ""
+      },
+      "hanyupinyinaliasname": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "aliasname": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "passstatus": {
+        "lastupdated": "2020-04-16",
+        "source": "3",
+        "classification": "C",
+        "value": ""
+      },
+      "nationality": {
+        "lastupdated": "2020-04-16",
+        "code": "MY",
+        "source": "1",
+        "classification": "C",
+        "desc": "MALAYSIAN"
+      },
+      "dob": {
+        "value": ""
+      },
+      "name": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "JOAN LEUNG LMAO"
+      },
+      "noa": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "unavailable": true
+      },
+      "noa-basic": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "unavailable": true
+      },
+      "passtype": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "3",
+        "classification": "C",
+        "desc": ""
+      },
+      "regadd": {
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "unit": {
+          "value": "128"
+        },
+        "street": {
+          "value": "BEDOK NORTH AVENUE 4"
+        },
+        "lastupdated": "2020-04-16",
+        "block": {
+          "value": "102"
+        },
+        "source": "1",
+        "postal": {
+          "value": "460102"
+        },
+        "classification": "C",
+        "floor": {
+          "value": "09"
+        },
+        "type": "SG",
+        "building": {
+          "value": "PEARL GARDEN"
+        }
+      },
+      "vehicles": [],
+      "billadd": {
+        "country": {
+          "code": "SG",
+          "desc": "SINGAPORE"
+        },
+        "unit": {
+          "value": ""
+        },
+        "street": {
+          "value": ""
+        },
+        "lastupdated": "2020-04-16",
+        "block": {
+          "value": ""
+        },
+        "source": "2",
+        "postal": {
+          "value": ""
+        },
+        "classification": "C",
+        "floor": {
+          "value": ""
+        },
+        "type": "SG",
+        "building": {
+          "value": ""
+        }
+      },
+      "hanyupinyinname": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "passportexpirydate": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "value": ""
+      },
+      "uinfin": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "S9812350D"
+      },
+      "gradyear": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "value": ""
+      },
+      "householdincome": {
+        "lastupdated": "2020-04-16",
+        "high": {
+          "value": 0
+        },
+        "source": "2",
+        "classification": "C",
+        "low": {
+          "value": 0
+        }
+      },
+      "partialuinfin": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": "*****350D"
+      },
+      "merdekagen": {
+        "lastupdated": "2020-04-16",
+        "eligibility": {
+          "value": ""
+        },
+        "quantum": {
+          "value": ""
+        },
+        "source": "1",
+        "classification": "C",
+        "message": {
+          "code": "",
+          "desc": ""
+        }
+      },
+      "cpfcontributions": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "history": [
+          {
+            "date": {
+              "value": "2019-05-15"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            },
+            "amount": {
+              "value": 873.9
+            },
+            "month": {
+              "value": "2019-05"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-06-15"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            },
+            "amount": {
+              "value": 873.9
+            },
+            "month": {
+              "value": "2019-06"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-07-15"
+            },
+            "employer": {
+              "value": "DBS BANK LTD"
+            },
+            "amount": {
+              "value": 873.9
+            },
+            "month": {
+              "value": "2019-07"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-08-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 873.9
+            },
+            "month": {
+              "value": "2019-08"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-09-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2019-09"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-10-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2019-10"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-11-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2019-11"
+            }
+          },
+          {
+            "date": {
+              "value": "2019-12-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2019-12"
+            }
+          },
+          {
+            "date": {
+              "value": "2020-01-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2020-01"
+            }
+          },
+          {
+            "date": {
+              "value": "2020-02-15"
+            },
+            "employer": {
+              "value": "DBS"
+            },
+            "amount": {
+              "value": 3800
+            },
+            "month": {
+              "value": "2020-02"
+            }
+          },
+          {
+            "date": {
+              "value": "2020-03-15"
+            },
+            "employer": {
+              "value": "UOB"
+            },
+            "amount": {
+              "value": 4000
+            },
+            "month": {
+              "value": "2020-03"
+            }
+          },
+          {
+            "date": {
+              "value": "2020-04-15"
+            },
+            "employer": {
+              "value": "A% Testing & Dev's_Ltd"
+            },
+            "amount": {
+              "value": 4000
+            },
+            "month": {
+              "value": "2020-04"
+            }
+          }
+        ],
+        "classification": "C"
+      },
+      "gstvoucher": {
+        "gstregular": {
+          "value": 0
+        },
+        "year": {
+          "value": ""
+        },
+        "lastupdated": "2020-04-16",
+        "exclusion": {
+          "value": ""
+        },
+        "gstmedisave": {
+          "value": 0
+        },
+        "gstspecial": {
+          "value": 0
+        },
+        "source": "1",
+        "classification": "C",
+        "signup": {
+          "value": ""
+        }
+      },
+      "email": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "value": "myinfotesting@gmail.com"
+      },
+      "noahistory-basic": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "unavailable": true
+      },
+      "birthcountry": {
+        "lastupdated": "2020-04-16",
+        "code": "MY",
+        "source": "1",
+        "classification": "C",
+        "desc": "MALAYSIA"
+      },
+      "race": {
+        "lastupdated": "2020-04-16",
+        "code": "IN",
+        "source": "1",
+        "classification": "C",
+        "desc": "INDIAN"
+      },
+      "silversupport": {
+        "lastupdated": "2020-04-16",
+        "eligibility": {
+          "value": ""
+        },
+        "amount": {
+          "value": ""
+        },
+        "source": "1",
+        "classification": "C",
+        "year": {
+          "value": ""
+        }
+      },
+      "sex": {
+        "lastupdated": "2020-04-16",
+        "code": "F",
+        "source": "1",
+        "classification": "C",
+        "desc": "FEMALE"
+      },
+      "countryofmarriage": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "1",
+        "classification": "C",
+        "desc": ""
+      },
+      "hdbtype": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "1",
+        "classification": "C",
+        "desc": ""
+      },
+      "employmentsector": {
+        "lastupdated": "2020-04-16",
+        "source": "3",
+        "classification": "C",
+        "value": ""
+      },
+      "marriagedate": {
+        "lastupdated": "2020-04-16",
+        "source": "1",
+        "classification": "C",
+        "value": ""
+      },
+      "employment": {
+        "lastupdated": "2020-04-16",
+        "source": "2",
+        "classification": "C",
+        "value": "WONDERCARE PTE LTD"
+      },
+      "hdbownership": [],
+      "marital": {
+        "lastupdated": "2020-04-16",
+        "code": "1",
+        "source": "1",
+        "classification": "C",
+        "desc": "SINGLE"
+      },
+      "childrenbirthrecords": [],
+      "drivinglicence": {
+        "revocation": {
+          "startdate": {
+            "value": ""
+          },
+          "enddate": {
+            "value": ""
+          }
+        },
+        "totaldemeritpoints": {
+          "value": 27
+        },
+        "disqualification": {
+          "startdate": {
+            "value": ""
+          },
+          "enddate": {
+            "value": ""
+          }
+        },
+        "qdl": {
+          "expirydate": {
+            "value": ""
+          },
+          "validity": {
+            "code": "",
+            "desc": ""
+          },
+          "classes": []
+        },
+        "lastupdated": "2020-04-16",
+        "pdl": {
+          "expirydate": {
+            "value": ""
+          },
+          "validity": {
+            "code": "",
+            "desc": ""
+          },
+          "classes": []
+        },
+        "source": "1",
+        "classification": "C",
+        "comstatus": {
+          "code": "",
+          "desc": ""
+        },
+        "photocardserialno": {
+          "value": ""
+        },
+        "suspension": {
+          "startdate": {
+            "value": "2017-04-04"
+          },
+          "enddate": {
+            "value": "2017-07-04"
+          }
+        }
+      },
+      "secondaryrace": {
+        "lastupdated": "2020-04-16",
+        "code": "",
+        "source": "1",
+        "classification": "C",
+        "desc": ""
+      }
     }
   }
 }
